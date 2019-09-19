@@ -33,16 +33,23 @@ footer: Except where otherwise noted, content on this site is licensed under a C
 </div>
 
 <h2>Popular topics</h2>
-
-- Zowe overview
-- System requirements
-- Installing Zowe on z/OS
-- Frequently asked questions
-- CLI quick start
-- Installing Zowe CLI
-- CLI plug-ins
-- Onboard your REST API service into the Zowe API Mediation Layer
-- Onboard REST APIs without code changes required
+<div class="features">
+  <div class="feature">
+    <p><a href="./getting-started/overview.html">What is Zowe</a></p>
+    <p><a href="./getting-started/overview.html">System requirements</a></p>
+    <p><a href="./getting-started/overview.html">Installing Zowe on z/OS</a></p>
+  </div>
+  <div class="feature">
+    <p><a href="./getting-started/overview.html">Frequently asked questions</a></p>
+    <p><a href="./getting-started/overview.html">CLI quick start</a></p>
+    <p><a href="./getting-started/overview.html">Installing Zowe CLI</a></p>
+  </div>
+  <div class="feature">
+    <p><a href="./getting-started/overview.html">CLI plug-ins</a></p>
+    <p><a href="./getting-started/overview.html">Onboard your REST API service into the Zowe API Mediation Layer</a></p>
+    <p><a href="./getting-started/overview.html">Onboard REST APIs without code changes required</a></p>
+  </div>
+</div>
 
 <!--<h2>Areas of interest</h2>
 
