@@ -161,6 +161,8 @@
   {
     "text": "Contributing",
     "baseuri": "/contribute/",
+    "hideInPdf": true,
+    "canHideFirst": true,
     "items": [{
         "text": "Code guidelines",
         "items": [
